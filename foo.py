@@ -1,9 +1,9 @@
 """
 To write to a new file:
-$   python test.py <subtitle-file> <new-file>
+$   python foo.py <subtitle-file> <new-file>
 
 To overwrite the same file:
-$   python test.py <subtitle-file>
+$   python foo.py <subtitle-file>
 """
 import re
 import sys
