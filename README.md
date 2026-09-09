@@ -1,1 +1,1 @@
-# public
+Public asset repository.
